@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="120" viewBox="0 0 520 120" fill="none">
+  <defs>
+    <linearGradient id="g1" x1="12" y1="12" x2="88" y2="88" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#2563EB"/>
+    </linearGradient>
+    <linearGradient id="g2" x1="36" y1="8" x2="92" y2="92" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#EC4899"/>
+    </linearGradient>
+  </defs>
+  <circle cx="52" cy="60" r="34" stroke="url(#g1)" stroke-width="14"/>
+  <circle cx="72" cy="44" r="24" stroke="url(#g2)" stroke-width="10"/>
+  <text x="120" y="70" fill="#F8FAFC" font-size="54" font-family="Plus Jakarta Sans, Arial, sans-serif" font-weight="700">GWM</text>
+  <text x="122" y="102" fill="#94A3B8" font-size="20" letter-spacing="8" font-family="DM Sans, Arial, sans-serif">SOLUTIONS</text>
+</svg>
+
